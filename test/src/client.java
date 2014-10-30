@@ -9,6 +9,9 @@ public class client {
 
 		weather we = new ProxyWeather();
 		
+		
+		
+		
 		we.func1();
 		we.func2();
 		
